@@ -1,0 +1,29 @@
+svg rect {
+  fill: gray;
+ }
+
+ svg text {
+  fill: darkslategray;
+  font: 12px sans-serif;
+  text-anchor: middle;
+ }
+
+.arc text {
+  font: 12px arial;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+.title {
+  fill: teal;
+  font-weight: italic;
+}
+
+.line {
+  fill: none;
+  stroke: teal;
+  stroke-width: 5px;
+}
